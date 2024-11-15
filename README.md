@@ -1,8 +1,7 @@
 <h1 align="center">Hello 👋, I'm Swarnima</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://in.images.search.yahoo.com/search/images;_ylt=AwrPrjGyezdnPC4QAkq9HAx.;_ylu=c2VjA3NlYXJjaARzbGsDYXNzaXN0;_ylc=X1MDMjExNDcyMzAwNQRfcgMyBGZyA21jYWZlZQRmcjIDc2EtZ3Atc2VhcmNoBGdwcmlkA0pMX3lrVzRlU1FTNUxRb0xfcU01TUEEbl9yc2x0AzAEbl9zdWdnAzMEb3JpZ2luA2luLmltYWdlcy5zZWFyY2gueWFob28uY29tBHBvcwMyBHBxc3RyA2FuaW1hdGVkIGNvZGluZyBnaWYgZm9yIGdpdGh1YiBnaXIEcHFzdHJsAzM0BHFzdHJsAzM2BHF1ZXJ5A2FuaW1hdGVkJTIwY29kaW5nJTIwZ2lmJTIwZm9yJTIwZ2l0aHViJTIwZ2lybHMEdF9zdG1wAzE3MzE2ODk0MDIEdXNlX2Nhc2UD?p=animated+coding+gif+for+github+girls&fr=mcafee&fr2=sa-gp-search&ei=UTF-8&x=wrt#id=59&iurl=https%3A%2F%2Fi.gifer.com%2Forigin%2Fbc%2Fbca56ffe4a6e2910237482982aa856fe.gif&action=click">
-
+<img align="right" alt="coding" width="300" src="https://i.gifer.com/origin/bc/bca56ffe4a6e2910237482982aa856fe.gif">
 
 <p align="left"> <a href="https://twitter.com/swarnima10" target="blank"><img src="https://img.shields.io/twitter/follow/swarnima10?logo=twitter&style=for-the-badge" alt="swarnima10" /></a> </p>
 
